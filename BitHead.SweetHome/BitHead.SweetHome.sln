@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitHead.SweetHome.WebAPI", "BitHead.SweetHome.WebAPI\BitHead.SweetHome.WebAPI.csproj", "{6FAF5EA7-D165-4D9C-A102-759B1F107D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitHead.SweetHome.Shared", "BitHead.SweetHome.Shared\BitHead.SweetHome.Shared.csproj", "{BDE711E9-DB0F-46F8-9A1B-8D0DBAAC694A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAF5EA7-D165-4D9C-A102-759B1F107D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAF5EA7-D165-4D9C-A102-759B1F107D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAF5EA7-D165-4D9C-A102-759B1F107D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAF5EA7-D165-4D9C-A102-759B1F107D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE711E9-DB0F-46F8-9A1B-8D0DBAAC694A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE711E9-DB0F-46F8-9A1B-8D0DBAAC694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE711E9-DB0F-46F8-9A1B-8D0DBAAC694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE711E9-DB0F-46F8-9A1B-8D0DBAAC694A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0171B801-B2A8-47FF-92D6-55D773EC2A63}
+	EndGlobalSection
+EndGlobal

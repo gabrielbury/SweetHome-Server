@@ -1,0 +1,10 @@
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.dll.config
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.dll
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.pdb
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.dll
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.xml
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.csproj.CoreCompileInputs.cache
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.dll
+C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.pdb
