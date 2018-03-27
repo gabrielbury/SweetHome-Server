@@ -10,16 +10,24 @@ namespace BitHead.SweetHome.WebAPI.Controllers
 {
     public class ImoveisController : ApiController
     {
-        // GET api/<controller>
-        public IEnumerable<string> Get()
+        //GET api/<controller>
+        public async Task<HttpResponseMessage> Get()
         {
-            return new string[] { "value1", "value2" };
+            var imoveis = await new Shared.Repos.Imovel().GetImoveisAsync();
+            return new HttpResponseMessage(HttpStatusCode.OK)
+            {
+                Content = new StringContent(Newtonsoft.Json.JsonConvert.SerializeObject(imoveis))
+            };
         }
 
         // GET api/<controller>/5
-        public string Get(int id)
+        public async Task<HttpResponseMessage> Get(Guid id)
         {
-            return "value";
+            var imovel = await new Shared.Repos.Imovel().GetImovelAsync(id);
+            return new HttpResponseMessage(HttpStatusCode.OK)
+            {
+                Content = new StringContent(Newtonsoft.Json.JsonConvert.SerializeObject(imovel))
+            };
         }
 
         // POST api/<controller>

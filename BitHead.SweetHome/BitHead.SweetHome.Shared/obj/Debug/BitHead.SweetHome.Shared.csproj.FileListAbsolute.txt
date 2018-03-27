@@ -8,3 +8,14 @@ C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\
 C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.csproj.CoreCompileInputs.cache
 C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.dll
 C:\Projetos\BitHead\sweethome\server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.pdb
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.dll.config
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.dll
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\BitHead.SweetHome.Shared.pdb
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.dll
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.xml
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.csprojResolveAssemblyReference.cache
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.csproj.CoreCompileInputs.cache
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.dll
+C:\Projetos\SweetHome-Server\BitHead.SweetHome\BitHead.SweetHome.Shared\obj\Debug\BitHead.SweetHome.Shared.pdb
